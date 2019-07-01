@@ -1,5 +1,5 @@
 tqdm
-skimage
+scikit-image
 numpy
 opencv-python
 matplotlib
